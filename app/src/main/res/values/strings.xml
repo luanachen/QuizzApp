@@ -1,0 +1,65 @@
+<resources>
+
+  <string name="app_name">QuizApp</string>
+
+  <!-- Question 1 -->
+
+  <string name="title_Q1">Question 1:</string>
+
+  <string name="content_Q1">What of the following is the default value of a local variable?</string>
+
+  <string name="alt_1_1">A - null</string>
+
+  <string name="alt_1_2">B - 0</string>
+
+  <string name="alt_1_3">C - Not assigned</string>
+
+  <!-- Question 2 -->
+
+  <string name="title_Q2">Question 2:</string>
+
+  <string name="content_Q2">What is the size of char variable?</string>
+
+  <string name="alt_2_1">A - 8 bit</string>
+
+  <string name="alt_2_2">B - 16 bit</string>
+
+  <string name="alt_2_3">C - 32 bit</string>
+
+  <!-- Question 3 -->
+
+  <string name="title_Q3">Question 3:</string>
+
+  <string name="content_Q3">What is the default value of long variable?</string>
+
+  <!-- Question 4 -->
+
+  <string name="title_Q4">Question 4:</string>
+
+  <string name="content_Q4">What is an immutable object??</string>
+
+  <string name="alt_4_1">A - An immutable object can be changed once it is created.</string>
+
+  <string name="alt_4_2">B - An immutable object cannot be changed once it is created.</string>
+
+  <string name="alt_4_3">C - An immutable object is an instance of an abstract class.</string>
+
+  <!-- Question 5 -->
+
+  <string name="title_Q5">Question 5:</string>
+
+  <string name="content_Q5">What will happen if static modifier is removed from the signature of the main method?</string>
+
+  <string name="alt_5_1">A - Compilation Error.</string>
+
+  <string name="alt_5_2">B - Program will compile and run to show the required output.</string>
+
+  <string name="alt_5_3">c - RunTime Error: NoSuchMethodError.</string>
+
+  <!-- Buttons -->
+
+  <string name="button_Check_Result">Check Result</string>
+
+  <string name="button_Restart">Restart</string>
+
+</resources>
